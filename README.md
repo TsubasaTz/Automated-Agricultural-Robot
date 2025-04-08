@@ -1,5 +1,5 @@
 # Automated Agricultural Robot
-Soil Moisture Sensor Code for the Agricultural Robot. Detects soil moisture.
+Code for the Automated Agricultural Robot.
 
 A project by Katrina Velasquez, Maggie Nguyen, Stefanie Nguyen
 
